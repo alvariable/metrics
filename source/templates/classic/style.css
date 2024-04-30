@@ -56,7 +56,7 @@
   h1, h2, h3 {
     margin: 8px 0 2px;
     padding: 0;
-    color: #0366d6;
+    color: #ff196e;
     font-weight: normal;
   }
   h1 svg, h2 svg, h3 svg {
@@ -320,7 +320,7 @@
 /* Labels */
   .label {
     background-color: #58A6FF30;
-    color: #0366D6;
+    color: #ff196e;
     padding: 0 10px;
     font-weight: 500;
     line-height: 22px;
@@ -589,7 +589,7 @@
   }
 
   .tweet .mention, .tweet .link, .tweet .hashtag {
-    color: #0366d6;
+    color: #ff196e;
   }
 
   .tweet .date {
@@ -1199,7 +1199,7 @@
     border-bottom-right-radius: 32px;
   }
   .contributors .contributions svg {
-    fill: #0366D6;
+    fill: #ff196e;
     margin-left: 4px;
     width: .8rem;
     height: .8rem;

@@ -1636,10 +1636,10 @@
   :root {
     --color-calendar-graph-day-bg: #ebedf0;
     --color-calendar-graph-day-border: rgba(27,31,35,0.06);
-    --color-calendar-graph-day-L1-bg: #D6A8E5;
-    --color-calendar-graph-day-L2-bg: #D68BCC;
-    --color-calendar-graph-day-L3-bg: #DE6AB0;
-    --color-calendar-graph-day-L4-bg: #E54893;
+    --color-calendar-graph-day-L1-bg: #f7aef8;
+    --color-calendar-graph-day-L2-bg: #c989eb;
+    --color-calendar-graph-day-L3-bg: #8b5fbf;
+    --color-calendar-graph-day-L4-bg: #392f5a;
     --color-calendar-halloween-graph-day-L1-bg: #ffee4a;
     --color-calendar-halloween-graph-day-L2-bg: #ffc501;
     --color-calendar-halloween-graph-day-L3-bg: #fe9600;
